@@ -10,6 +10,4 @@ Then we'll move on to Ruby fundamentals, where we will reinforce the basic conce
 
 In the final section you'll get a sample of our Career Prep track that all of our immersive students go through as they reach the end of their technical training. This sample curriculum will give tactical advice on various aspects of interviewing, from communicating with recruiters to preparing for the actual interview to approaching code challenges that you'll complete following an interview. 
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-bootcamp-prep'>welcome to bootcamp prep </a> on Learn.co and start learning to code for free.</p>
-
 <p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-bootcamp-prep'>Welcome to Bootcamp Prep</a> on Learn.co and start learning to code for free.</p>
