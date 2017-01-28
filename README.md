@@ -1,4 +1,4 @@
-## Welcome
+1. * ## Welcome[![](http://)](http://)
 
 This prep course will guide you through the fundamentals of programming in both Javascript and Ruby. Beyond just covering languages, you'll also learn how to work like a developer. You'll get set up with a developer environment and you'll be writing your code in a text editor and executing it in a terminal. You'll learn about test driven development and use a developer workflow when writing and testing your code. 
 
