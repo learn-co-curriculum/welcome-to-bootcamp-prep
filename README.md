@@ -17,7 +17,7 @@ By working through over 100 lessons on Learn.co, Flatiron School’s custom-buil
 
 ... to this: 
 
-<img src="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" alt="Rock Dodger demo!" width="300px" height="auto"/>
+<img src="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" alt="Rock Dodger demo!" width="500px" height="auto"/>
 
 … and a lot more cool projects in between. 
 
