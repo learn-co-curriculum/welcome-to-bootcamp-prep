@@ -1,6 +1,7 @@
 ## Welcome to Bootcamp Prep!
 
-Welcome to Flatiron School’s Bootcamp Prep course – the most effective and efficient way to learn programming fundamentals and prepare yourself to get into a top coding bootcamp. We’re excited to have you here! :tada:
+Welcome to Flatiron School’s Bootcamp Prep course – the most effective and efficient way to learn programming fundamentals and prepare yourself to get into a top coding bootcamp. We’re excited to have you here! 
+:tada:
 
 > **Quick tip**: Our most successful students make progress in this course on **day one**. Only have a few minutes? We challenge you to read through 2-3 lessons and click the banner below so you can save your progress going forward.
 
@@ -12,11 +13,11 @@ Here’s what you have to look forward to learning in Bootcamp Prep.
 
 By working through over 100 lessons on Learn.co, Flatiron School’s custom-built online platform, you’ll truly learn by *doing*. We’ll take you from programming this: 
 
-> `Hello world!`
+`Hello world!`
 
 ... to this: 
 
-<center><img src="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" alt="Rock Dodger demo!" width="200px" height="auto"/></center>
+<img src="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" alt="Rock Dodger demo!" width="300px" height="auto"/>
 
 … and a lot more cool projects in between. 
 
