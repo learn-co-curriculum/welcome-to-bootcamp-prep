@@ -4,7 +4,7 @@ Every day, you probably use at least one web application to make something in yo
 
 That’s where we come in. Over the course of Bootcamp Prep, we’ll bring you into the world of web development and teach you all the fundamentals. You’ll learn about the building blocks of the web: HTML and CSS. You’ll learn how programming works with JavaScript, and you’ll also learn the basics of the Ruby programming language. At the end of the course, you’ll be prepared to take on the full Flatiron School Software Engineering or Online Web Developer program and become a real web developer. After completing the first 20 lessons, you’ll be able to start your application process to either program and begin speaking with an Admissions Advisor regarding your career goals.
 
-## What you'll learn
+## What you will learn
 
 Your path forward looks something like this:
 
